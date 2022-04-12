@@ -1,6 +1,6 @@
 # streamlit-basics
 
-A very simple app to learn the basics of streamlit. Built using [this](https://docs.streamlit.io/library/get-started/create-an-app) tutorial.
+A very simple app to learn the basics of streamlit. Built using [this](https://docs.streamlit.io/library/get-started/create-an-app) tutorial. You can view the app here: https://share.streamlit.io/dalmia/streamlit-basics/main/app.py
 
 ## Installation
 
